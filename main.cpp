@@ -8,7 +8,7 @@
 **				class is an abstract class that utilizes pure virtual
 **				functions. There are five derived classes that derive 
 **				from the Space class, each representing a different type 
-**              of space, and each having unique actions that the player
+**              		of space, and each having unique actions that the player
 **				can interact with. The game includes nine spaces using 
 **				the derived classes of Space.
 **
